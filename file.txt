@@ -1,0 +1,6 @@
+Create Form -> For adding task
+{Tittle : "task name" , Completed  :" False " }
+render all tasks in the view
+craete Funcionalty to mark task Completed
+Counter to check Completed tasks out of all the tasks
+delete the particuler task
